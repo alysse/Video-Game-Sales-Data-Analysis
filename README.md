@@ -20,7 +20,7 @@ Dataset was created by a web scrape of [VGChartz](https://www.vgchartz.com/) and
 *   User_count - Number of users who gave the userscore
 *   Developer - Party responsible for creating the game
 *   Rating - The ESRB ratings
-*   Console_Summary - Grouping platforms together by company$^{1}$
+*   Console_Summary - Grouping platforms together by company[^1]
 $^{1}$ Not from original data source. Created mid-analysis
 
 # **Data Source**
